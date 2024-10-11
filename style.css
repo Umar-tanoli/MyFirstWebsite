@@ -1,0 +1,18 @@
+body{
+    background-image:url(hospital.jpg)
+}
+label {
+    color: rgba(255, 68, 0, 0.778); font-style: italic;
+  }
+  
+  input[type="First Name"] {
+    background-color: rgb(0, 64, 255);
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
+p{
+  border: 1px solid powderblue
+}
